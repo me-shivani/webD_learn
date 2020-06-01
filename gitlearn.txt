@@ -1,0 +1,6 @@
+git add . 
+{git status}
+git commit -m "message according to work done"
+{git status}
+{git log}
+git push -u origin master
